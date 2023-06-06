@@ -492,7 +492,7 @@ form .btn{
 @media only screen and (max-width: 1000px) and (min-width: 501px) {
 
     #collection1{
-        padding-top: 0;}
+        padding-top: 40px;}
 
     .logo{
         width:120px}
