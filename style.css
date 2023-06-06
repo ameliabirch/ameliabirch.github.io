@@ -478,6 +478,12 @@ form .btn{
         grid-gap: 30px;
         justify-content: center;}
 
+    .contact-left p{
+        margin-top: 20px;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
 }
 
 @media only screen and (max-width: 1200px) and (min-width: 601px) {
@@ -528,4 +534,10 @@ form .btn{
 
     .section-title{
         font-size: 32px;}
+
+    .contact-left p{
+        margin-top: 20px;
+        font-size: 20px;
+        text-decoration: none;
+    }
 }
