@@ -473,6 +473,10 @@ form .btn{
         text-align: left;
     }
 
+    .sub-title{
+        font-size: 28px;
+    }
+
     .section-title{
         font-size: 25px;}
 
@@ -496,6 +500,9 @@ form .btn{
 
     .logo{
         width:120px}
+
+    nav ul{
+        width: 35%;}
 
     nav ul li{
         padding-top: 20px;
@@ -542,6 +549,9 @@ form .btn{
         font-size: 25px;
         text-align: left;
     }
+    .sub-title{
+        font-size: 30px;
+    }
 
     .section-title{
         font-size: 25px;}
@@ -565,6 +575,9 @@ form .btn{
 @media only screen and (max-width: 1200px) and (min-width: 1001px) {
     .logo{
         width:140px}
+
+    nav ul{
+        width: 30%;}
 
     nav ul li{
         padding-top: 20px;
